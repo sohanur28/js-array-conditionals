@@ -13,5 +13,5 @@ else if (toastBiscuit < money){
     console.log('chubai chubai toast biscuit khamu');
 }
 else {
-    console.log('Khali cha shasther jonno valo')
+    console.log('Khali cha shasther jonno valo');
 }
